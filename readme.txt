@@ -1,1 +1,1 @@
-my own solidity smart contracts
+my own practices solidity smart contracts
